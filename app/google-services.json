@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535003603166",
+    "project_id": "cubestore-a37f2",
+    "storage_bucket": "cubestore-a37f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535003603166:android:1a59456acc3c58d640a24f",
+        "android_client_info": {
+          "package_name": "com.example.cubestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535003603166-45t6u254a8a2jqtqihtt3sa3orrsrpab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2cjOg_Mn2pIjjOuJ_DeUDpaWDKvVgNHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535003603166-45t6u254a8a2jqtqihtt3sa3orrsrpab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
